@@ -1,0 +1,12 @@
+CURRENT topicMAP
+created: 08.04.2026
+last validated: 08.04.2026
+
+
+in javascrip, const subject=
+
+
+if wanting diffrent files for each subtopic
+
+
+
