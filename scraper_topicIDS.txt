@@ -4,9 +4,26 @@ last validated: 08.04.2026
 
 
 in javascrip, const subject=
+  const subjects = [142,58,56,149,54,147,146,143,57,144,55,60,59];
 
 
-if wanting diffrent files for each subtopic
+if wanting diffrent files for each subtopic:
+
+  const topicMap = {
+    "DENT": 142,
+    "INT": 58,
+    "OBGYN": 56,
+    "ENT": 149,
+    "PSYCH": 54,
+    "RHEUM": 147,
+    "URO": 146,
+    "DERM": 143,
+    "NEUR": 57,
+    "OPTH": 144,
+    "PED": 55,
+    "PH": 60,
+    "SURG": 59
+  };
 
 
 
