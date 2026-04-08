@@ -4,7 +4,8 @@ Scrapes the zarovizsga database and allows for comparison with older scrapes to 
 ## IMPROVED VERSION OF:
 - Greekdoctor javascript scraper:https://github.com/greekdoctor/finalexam-questioncollector-js/tree/main
 - German programs JSON comparitor
-Why? Requires to only run once, compared to their 
+
+Why is it better? Requires to only run once, compared to their 
 
 ## How does the program work?
 It has two programs:
