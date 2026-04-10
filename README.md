@@ -13,19 +13,19 @@ It has two programs:
 2) A python program comparing previous pulls with most recent and generates the differences as a PDF
 
 +) A python program that can turn each of the .JSON files into a .tsv which can be imported to ANKI
->>>> The name of the anki cards are a bit messy, but it will say the topic, but not subtopic. Just change in anki.
+-- The name of the anki cards are a bit messy, but it will say the topic, but not subtopic. Just change in anki.
 
 
 ## How to run it?
 1. Visit the website logged in
 2. Open the consol
 3. Type in the scrape_topicseparator.js   
->>>> Ensure the correct IDs are set, refference: scraper_topicIDS.txt
->>>> manualy change if they have changed theirs as well
->>>> It dowloads all .json files in your webbrowsers preffered location, change this to a separate folder
+-- Ensure the correct IDs are set, refference: scraper_topicIDS.txt
+-- manualy change if they have changed theirs as well
+-- It dowloads all .json files in your webbrowsers preffered location, change this to a separate folder
 
 4. Archive the dowload
->>>> anki_generator includes a script for mass convertion to anki cards
+-- anki_generator includes a script for mass convertion to anki cards
 
 New questions has been announced?
 1. Repeat afformentioned process
